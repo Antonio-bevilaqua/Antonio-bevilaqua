@@ -22,6 +22,8 @@ Estou sempre em busca de aprimoramentos e tentando escrever códigos cada vez ma
 
 <br/>
 
+### 💯 Estatísticas:
+
 <picture>
   <source
     srcset="https://github-readme-stats-antonio-bevilaquas-projects.vercel.app/api/top-langs/?username=Antonio-bevilaqua&layout=donut&locale=pt-br&theme=dark"
