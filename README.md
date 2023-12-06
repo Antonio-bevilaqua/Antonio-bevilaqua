@@ -5,7 +5,7 @@ Estou sempre em busca de aprimoramentos e tentando escrever códigos cada vez ma
 - 🔭 Atualmente trabalhando na <a href="https://iguanait.com.br" target="_blank">IguanaIt</a>.</li>
 - 🌱 Sempre aprendendo sobre todos os tipos de coisas relacionadas a tecnologia.</li>
 - 🔒 A maioria dos meus repositórios são privados, aos poucos estou criando novos projetos publicos.</li>
-- 📫 Você pode me enviar um email em [Dev Antonio Bevilaqua](mailto:tonibevila@gmail.com?subject=[Github]%20Contato) e eu ficarei feliz em respondê-lo.</li>
+- 📫 Você pode me enviar um email [clicando aqui](mailto:tonibevila@gmail.com?subject=[Github]%20Contato) e eu ficarei feliz em respondê-lo.</li>
 - 📍 My primary language is brazilian portuguese, but i have a good english knowledge.</li>
 
 ### 🔨 Linguagens, Frameworks e Ferramentas:
